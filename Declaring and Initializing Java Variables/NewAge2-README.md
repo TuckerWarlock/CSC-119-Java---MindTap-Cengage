@@ -5,12 +5,12 @@ In this lab, you declare and initialize constants in a Java program. The program
 
 > Instructions
 1. Declare a constant named YEAR, and initialize YEAR with the value 2050.
-1. Edit the following statement so it uses the constant named YEAR:
+2. Edit the following statement so it uses the constant named YEAR:
 ```
 newAge = currentAge + (2050 − currentYear);
 ```
-1. Edit the following statement so it uses the constant named YEAR:
+3. Edit the following statement so it uses the constant named YEAR:
 ```
 System.out.println("I will be" + newAge + "in 2050.");
 ```
-1. Execute the program.
+4. Execute the program.
