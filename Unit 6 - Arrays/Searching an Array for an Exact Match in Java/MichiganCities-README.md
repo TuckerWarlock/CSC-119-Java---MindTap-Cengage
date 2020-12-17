@@ -14,7 +14,7 @@ Comments in the code tell you where to write your statements.
 1. Study the prewritten code to make sure you understand it.
 2. Write a loop statement that examines the names of cities stored in the array.
 3. Write code that tests for a match.
-4. Write code that, when appropriate, prints the message: "Not a city in Michigan.".
+4. Write code that, when appropriate, prints the message: **"Not a city in Michigan.".**
 5. Execute the program using the following as input:
 
 
