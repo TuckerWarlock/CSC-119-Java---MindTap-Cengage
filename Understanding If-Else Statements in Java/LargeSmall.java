@@ -1,3 +1,18 @@
+// LargeSmall.java - This program calculates the largest and smallest of three integer values. 
+
+
+public class LargeSmall 
+{
+   public static void main(String args[])
+   {
+      // This is the work done in the housekeeping() method
+      // Declare and initialize variables here.
+      int largest = 0;      // Largest of the three values.
+      int smallest = 0;     // Smallest of the three values.
+      int num1 = -50;
+      int num2 = 53;
+      int num3 = 78;
+      
       // This is the work done in the detailLoop() method
       //Write assignment, if, or if else statements here as appropriate.      
       if(num1 > num2 && num2 > num3){
