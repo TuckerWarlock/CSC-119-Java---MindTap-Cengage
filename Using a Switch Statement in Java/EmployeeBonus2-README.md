@@ -5,12 +5,14 @@ In this lab, you complete a prewritten Java program that calculates an employeeâ
 In this program, bonuses are calculated based on an employeeâ€™s annual salary and their performance rating. 
 
 >Below, Table 4-5 shows the employee ratings and bonuses:
+
 Rating | Bonus
 ------ | -----
 1 | 25% of annual salary
 2 | 15% of annual salary
 3 | 10% of annual salary
 4 | None
+
 *Table 4-5*
 
 ##### Instructions
