@@ -14,3 +14,8 @@ If the user has not preregistered, the program should call a method named noDisc
 
 The source code file provided for this lab includes the necessary variable declarations and the input statement. 
 Comments are included in the file to help you write the remainder of the program.
+
+#### Instructions
+1. Ensure the file named ArtShow.java is open.
+2. Write the Java statements as indicated by the comments.
+3. Execute the program by clicking "Run Code."

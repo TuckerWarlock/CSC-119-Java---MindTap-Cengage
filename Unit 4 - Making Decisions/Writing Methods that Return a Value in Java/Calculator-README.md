@@ -10,3 +10,9 @@ For example, if the user enters 3, 4, and *, the following is displayed:
 ```
 3.00 * 4.00 = 12.00
 ```
+
+The source code file provided for this lab includes the necessary variable declarations, and input and output statements. Comments are included in the file to help you write the remainder of the program.
+
+#### Instructions
+1. Write the Java statements as indicated by the comments.
+2. Execute the program
