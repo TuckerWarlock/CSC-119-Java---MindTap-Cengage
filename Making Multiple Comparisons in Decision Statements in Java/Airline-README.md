@@ -5,7 +5,7 @@ In this lab, you complete a partially written Java program for an airline that o
 The program should request a passenger’s name and age and then print whether the passenger is eligible or not eligible for a discount.
 
 ##### Instructions
-1. Ensure the file named Airline.java is open.
+1. Ensure the file named **Airline.java** is open.
 
 2. Variables have been declared and initialized for you, and the input statements have been written. 
 Read them carefully before you proceed to the next step.
@@ -15,7 +15,7 @@ Write the decision statement to identify when a discount should be offered and w
 
 4. Be sure to include output statements telling whether or not the customer is eligible for a discount.
 
-5. Execute the program by clicking Run and enter the following as input, and verify the outputs are correct:
+5. Execute the program by clicking **Run** and enter the following as input, and verify the outputs are correct:
 
 ```
 Customer Name: Will Moriarty 
