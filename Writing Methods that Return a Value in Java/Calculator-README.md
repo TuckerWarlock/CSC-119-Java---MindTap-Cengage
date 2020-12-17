@@ -1,4 +1,4 @@
-# Writing Methods that Return a Value in Java
+# Writing Methods that Return a Value
 
 ### Summary
 In this lab, you complete a partially written Java program that includes a method that returns a value. 
