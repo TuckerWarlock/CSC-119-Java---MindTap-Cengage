@@ -7,6 +7,7 @@ The program asks the user if he or she has preregistered for tickets to an art s
 If the user has preregistered, the program should call a method named discount() that displays the message, 
 
 **"You are preregistered and qualify for a 5 percent discount."**
+
 If the user has not preregistered, the program should call a method named noDiscount() that displays the message, 
 
 **"Sorry, you did not preregister and do not qualify for a 5 percent discount."**
