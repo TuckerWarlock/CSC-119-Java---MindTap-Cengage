@@ -11,6 +11,6 @@ In this lab, you will create a programmer-defined class and then use it in a Jav
 5. Write a public ```calculateArea()``` method and a public ```calculatePerimeter()``` method to calculate and return the area of the rectangle and the perimeter of the rectangle.
 6. Open the file named **MyRectangleClassProgram.java**.
 7. In the ```MyRectangleClassProgram``` class, create two ```Rectangle``` objects named ```rectangle1``` and ```rectangle2```.
-8. Set the ```length``` of ```rectangle1``` to **10.0** and the ```width``` to **5.0**. Set the ```length``` of ```rectangle2``` to **7.0** and the width to **3.0**.
+8. Set the ```length``` of ```rectangle1``` to **10.0** and the ```width``` to **5.0**. Set the ```length``` of ```rectangle2``` to **7.0** and the ```width``` to **3.0**.
 9. Print the value of ```rectangle1```’s perimeter and area, and then print the value of ```rectangle2```’s perimeter and area.
 10. Execute the program.
